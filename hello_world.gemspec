@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = HelloWorld::VERSION
   s.authors     = ["Alex Beeken"]
   s.email       = ["aeb242@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of HelloWorld."
-  s.description = "TODO: Description of HelloWorld."
+  s.homepage    = "http://www.alexlearns.org"
+  s.summary     = "Hello world gem for explaining how to setup a gem"
+  s.description = "Shows a simple hello world page"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
